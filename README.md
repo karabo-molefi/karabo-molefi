@@ -1,6 +1,5 @@
 ## about me
 
----
 
 student from pretoria, south africa
 
@@ -10,7 +9,6 @@ tech/health/wellness enthusiast
 
 ## fav repos
 
----
 
 | name | decription |
 | --- | --- |
@@ -19,6 +17,5 @@ tech/health/wellness enthusiast
 
 ## kudos
 
----
 
 you’re welcome to copy, fork and share any of my reops. a little shout out will be appreciated if you do :).
