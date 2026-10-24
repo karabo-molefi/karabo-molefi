@@ -12,8 +12,8 @@ tech/health/wellness enthusiast
 
 | name | decription |
 | --- | --- |
-|  | all my personal projects where i build fun, helpful tools and apps |
-|  | all of my my school projects and assignements |
+| [URL-Shortener](https://github.com/karabo-molefi/URL-Shortener) | a helpful tool to shorten long urls  |
+| [Wildlife-Record-System](https://github.com/karabo-molefi/Wildlife-Record-System) | my latest school project |
 
 ## kudos
 
